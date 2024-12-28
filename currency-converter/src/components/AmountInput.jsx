@@ -5,7 +5,7 @@ const AmountInput = ({ amount, setAmount }) => {
     <div className="mt-6">
       <label
         htmlFor="amount"
-        className="block text-sm font-medium text-gray-700"
+        className="block text-sm font-medium text-gray-700 text-left" // Ensure left alignment
       >
         Amount:
       </label>
