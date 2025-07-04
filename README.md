@@ -106,7 +106,7 @@ The main component that handles:
 
 ## API Used
 
-The project uses the [ExchangeRate API](https://www.exchangerate-api.com/) for live currency conversion rates. Replace `631d5c8ce4c79a6097116ce4` in the API URL with your own API key if needed:
+The project uses the [ExchangeRate API](https://www.exchangerate-api.com/) for live currency conversion rates. 
 
 ```javascript
 https://v6.exchangerate-api.com/v6/YOUR-API-KEY/latest/USD
@@ -132,7 +132,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Author
 
 **Fitsum Geremew**  
-A passionate developer building intuitive and efficient web applications.
+
 
 ---
 
